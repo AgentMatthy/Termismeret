@@ -1,0 +1,21 @@
+body {
+  background: black;
+  font-family: "Outfit" serif;
+  position: relative;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+nav {
+  background: #444444;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  position: fixed;
+  width: 100%;
+}
+
+/*# sourceMappingURL=styles.css.map */
