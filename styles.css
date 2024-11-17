@@ -51,6 +51,17 @@ nav ul {
   background: #1f1f1f;
   text-align: justify;
   text-justify: auto;
+  line-height: 1.5rem;
+}
+
+.s2 {
+  margin: 1rem;
+  padding: 1rem 3rem;
+  border-radius: 15px;
+  background: #1f1f1f;
+  text-align: justify;
+  text-justify: auto;
+  line-height: 1.5rem;
 }
 
 /*# sourceMappingURL=styles.css.map */
